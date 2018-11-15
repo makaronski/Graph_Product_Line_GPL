@@ -72,7 +72,7 @@ This representation choice has a number of important consequences. Most importan
 
 It is needless to say that digraphs and undigraphs are needed both to represent (i.e. to "model") different domains. At this stage, extend your graph library and its concepts (Graph, Edge, Node, Neighbour) in a way that both types of graphs can be created and managed.
 
-#### Edge weights
+### Edge weights
 
 Realise support for edge annotations ("weights") which fulfil the following requirements:
 
